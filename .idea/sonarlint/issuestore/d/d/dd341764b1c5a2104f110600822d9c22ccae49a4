@@ -1,0 +1,13 @@
+
+’
+java:S1192"uDefine a constant instead of duplicating this literal "-----------constructor injection method-------------" 3 times.(í²¦Æ8»º´ÆÕ1
+G	java:S106"+Replace this use of System.out by a logger.(í²¦Æ8ÜÉ²ÆÕ1
+G	java:S106"+Replace this use of System.out by a logger.(í²¦Æ8âÉ²ÆÕ1
+G	java:S106 "+Replace this use of System.out by a logger.(í²¦Æ8Äº´ÆÕ1
+L	java:S106%"+Replace this use of System.out by a logger.(Ô²Ð®ÿÿÿÿÿ8Åº´ÆÕ1
+~
+java:S1128"\Remove this unused import 'com.nhnacademy.edu.springframework.messagesender.annotation.SMS'.(¦éõ–ýÿÿÿÿ8÷ÓµÆÕ1
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡ž¸Îùÿÿÿÿ8Ôª„ÈÕ1
+g
+java:S1128"ERemove this unused import 'org.springframework.stereotype.Component'.(Þ÷Ñ¸ÿÿÿÿÿ8ëýïÊÕ1
