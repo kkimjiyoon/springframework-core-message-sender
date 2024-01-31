@@ -8,6 +8,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.*;
 
 @Configuration
+@EnableAspectJAutoProxy
 @ComponentScan(basePackages = {"com.nhnacademy.edu.springframework.messagesender"}) // 하위에 있는 모든 클래스를 뒤짐 -> @componert, @repository 등등이 붙은 클래스들을 로딩 함, 안 붙어있으면 spring bean으로 등록이 안되어있는 것들임.
 @PropertySource("classpath:sender.properties")
 public class MainConfig {
